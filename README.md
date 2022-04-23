@@ -1,5 +1,7 @@
 # CalculateSunAngle
-Documentation of validation for oce::sunAngle().
+
+This is a wrapper script for oce::sunAngle(). It calculates sun angle based on lon, lat, date, time.
+
 
 Function oce::sunAngle() has been validated against calculations from:
  - [Website1](https://www.sonnenverlauf.de/#/54.1003,10.2425,8/2009.12.23/14:14/1/3)
